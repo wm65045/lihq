@@ -1,0 +1,11 @@
+
+*/.ccls-cache/
+.ccls-cache
+
+*/.idea/
+.idea
+
+.DS_Store
+*/.DS_Store
+
+*.o
